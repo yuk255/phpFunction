@@ -1,5 +1,6 @@
 <?php
 /*
+ * @Author: yuk255
  * @Description: 图片裁剪缩放加水印
  */
 
